@@ -45,7 +45,7 @@ public class JWhiteBoard extends ReceiverAdapter implements ActionListener, Chan
 
     
     /**
-     * Constructor 1
+     * Constructor 1234
      * 
      * @param props
      * @param no_channel
